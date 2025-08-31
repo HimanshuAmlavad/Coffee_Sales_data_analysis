@@ -1,0 +1,1 @@
+select sum(amount)as Total_sale from coffee_sales_data;
